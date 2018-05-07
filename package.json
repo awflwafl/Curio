@@ -1,0 +1,17 @@
+{
+  "name": "curio",
+  "version": "0.0.1",
+  "description": "Web automation and tooling experiments based on the usecase of creating a web interface for the Curio framework.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "gulp serve"
+  },
+  "author": "Артемий Кондатьев",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-html-minifier": "^0.1.8"
+  }
+}
